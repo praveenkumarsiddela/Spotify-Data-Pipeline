@@ -24,5 +24,8 @@ This project showcases a scalable data engineering ecosystem built on AWS Cloud 
 2. Follow the steps in `aws_setup.md` to configure AWS services.
 3. Run the `etl_pipeline.py` script to start the ETL process.
 
+## Architecture
+![Architecture Diagram](architecture_diagram.png)
+
 ## License
 This project is licensed under the MIT License.
