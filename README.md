@@ -15,9 +15,9 @@ This project showcases a scalable data engineering ecosystem built on AWS Cloud 
 
 ## Project Structure
 - `etl_pipeline.py`: Contains the Python script for the ETL process.
-- `database_schema.sql`: Sample SQL queries for creating the database schema.
+- `database_schema.sql`: Sample SQL queries for creating the expanded database schema.
 - `aws_setup.md`: Step-by-step guide to setting up the AWS services.
-- `sample_data.csv`: Mock data used for testing.
+- `sample_data.csv`: Mock data (now with 100+ rows) used for testing.
 
 ## Getting Started
 1. Clone the repository.
